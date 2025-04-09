@@ -1,1 +1,2 @@
-
+BOT_TOKEN = " "
+WETHER_TOKEN = " "
